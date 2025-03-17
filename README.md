@@ -4,28 +4,24 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushyan-jhaveri-75b52813a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pushyanjhaveri.github.io/)  
 
-## I'm a Data Analyst | Data Scientist |Machine Learning Engineer | Healthcare Analytics Expert
+## I'm a Data Analyst | Data Scientist | Machine Learning Engineer | Healthcare Analytics Expert
 
 ---
 
 - 🔭 I am currently working as a **Data Analyst** at **KGS Technology Group**.
 - 🎯 Passionate about **Machine Learning, Healthcare Analytics, and Cancer Genomics**.
-- 🌱 Currently enhancing skills in **Big Data Technologies, Artificial Intelligence and Cloud Computing**.
+- 🌱 Currently enhancing skills in **Big Data Technologies, Artificial Intelligence, and Cloud Computing**.
 - 📊 Experienced in **Python, SQL, Tableau, Power BI, AWS, and Data Engineering**.
 - 🤝 Open to collaboration on **Data Science, AI Research, and ML applications in Healthcare**.
 
 ---
 
-### 📊 **GitHub Stats**
-| ![Pushyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PushyanJhaveri&show_icons=true&theme=radical) | [![Pushyan's Streak](https://streak-stats.demolab.com?user=PushyanJhaveri&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushyanJhaveri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | |
-
-[![Pushyan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PushyanJhaveri&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🌟 **About Me**
+I am a dedicated data professional with a strong foundation in statistical analysis and machine learning. My journey in data science has been fueled by a passion for transforming raw data into actionable insights, particularly in the healthcare sector. I thrive on challenges and continuously seek opportunities to learn and grow in this ever-evolving field.
 
 ---
 
-## ⚡ Technologies & Tools
+### ⚡ Technologies & Tools
 
 <div align="center">
 <table align="center">
@@ -88,11 +84,26 @@
 
 ---
 
-### 🙌 **Let's Connect!**  
-📧 Email: **pushyanjhaveri01@gmail.com**  
-💼 LinkedIn: [Pushyan Jhaveri](https://www.linkedin.com/in/pushyan-jhaveri-75b52813a/)  
-🌐 Portfolio: [Your Portfolio](https://pushyanjhaveri.github.io/)  
+### 🏆 **GitHub Profile Trophy**
+![trophy](https://github-profile-trophy.vercel.app/?username=PushyanJhaveri&theme=onedark&row=1&column=3&margin-w=15&margin-h=15)
 
 ---
 
-**Thanks for visiting my profile! 🚀**
+### 📈 **GitHub Activity Graph**
+![Pushyan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PushyanJhaveri&theme=react-dark&hide_title=true&hide_border=true)
+
+---
+
+### 🌐 **Connect with Me**
+- 📧 Email: **pushyanjhaveri01@gmail.com**  
+- 💼 LinkedIn: [Pushyan Jhaveri](https://www.linkedin.com/in/pushyan-jhaveri-75b52813a/)  
+- 🌐 Portfolio: [Your Portfolio](https://pushyanjhaveri.github.io/)  
+
+---
+
+### 💬 **Random Quote**
+> "Data is the new oil." - Clive Humby
+
+---
+
+**Thanks for visiting my profile! Let's collaborate and make an impact together! 🚀**
