@@ -17,7 +17,7 @@
 ---
 
 ### 📊 **GitHub Stats**
-| ![Pushyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PushyanJhaveri&show_icons=true&theme=radical) | [![Pushyan's Streak](https://streak-stats.demolab.com?user=PushyanJhaveri&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Pushyan's GitHub Stats][![Pushyan's Streak](https://streak-stats.demolab.com?user=PushyanJhaveri&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushyanJhaveri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | |
 
