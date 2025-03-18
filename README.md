@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushyan-jhaveri-75b52813a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pushyanjhaveri.github.io/)  
 
-## I'm a Data Analyst | Data Scientist |Machine Learning Engineer | Healthcare Analytics Expert
+## I'm a Data Analyst | Data Scientist | Machine Learning Engineer | Healthcare Analytics Expert
 
 ---
 
@@ -17,9 +17,8 @@
 ---
 
 ### 📊 **GitHub Stats**
-| ![Pushyan's GitHub Stats][![Pushyan's Streak](https://streak-stats.demolab.com?user=PushyanJhaveri&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushyanJhaveri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | |
+[![Pushyan's Streak](https://streak-stats.demolab.com?user=PushyanJhaveri&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushyanJhaveri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -67,6 +66,10 @@
             <br /> AWS
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="65px"/>
+            <br /> Microsoft Azure
+        </td>
+        <td align="center" width="140" height="112.43">
             <img src="https://www.svgrepo.com/show/354427/tableau.svg" width="65px"/>
             <br /> Tableau
         </td>
@@ -86,10 +89,31 @@
 
 ---
 
+### 🎓 **Certifications**
+- [MultiCloud, DevOps & Artificial Intelligence](https://drive.google.com/file/d/1OgZL3wrunfqgM7vC_bROBO1Q6JdpRpRd/view?usp=sharing) - The Cloud Bootcamp
+- [SQL Advance](link) - HackerRank
+- [AWS Certified Solutions Architect](link) - Amazon
+
+---
+
+### 🌟 **Soft Skills**
+- Strong analytical and problem-solving skills
+- Excellent communication and teamwork abilities
+- Adaptability and eagerness to learn
+
+---
+
+### 🎨 **Hobbies & Interests**
+- Data Visualization
+- Music and Piano
+- Reading about AI advancements
+- Hiking and outdoor activities
+
+
 ### 🙌 **Let's Connect!**  
 📧 Email: **pushyanjhaveri01@gmail.com**  
 💼 LinkedIn: [Pushyan Jhaveri](https://www.linkedin.com/in/pushyan-jhaveri-75b52813a/)  
-🌐 Portfolio: [Your Portfolio](https://pushyanjhaveri.github.io/)  
+🌐 Portfolio: [My website](https://pushyanjhaveri.github.io/)  
 
 ---
 
