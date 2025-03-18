@@ -17,9 +17,14 @@
 ---
 
 ### 📊 **GitHub Stats**
-[![Pushyan's Streak](https://streak-stats.demolab.com?user=PushyanJhaveri&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushyanJhaveri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=PushyanJhaveri&theme=dark&border_radius=7&mode=weekly" alt="Pushyan's Streak" width="400" height="150" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushyanJhaveri&layout=compact&theme=radical&border_radius=7" alt="Top Languages" width="400" height="150" />
+    </a>
+</div>
 ---
 
 ## ⚡ Technologies & Tools
