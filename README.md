@@ -8,7 +8,7 @@
 
 
 ### 🚀 **Important Repositories**
-📂 **Inventory management analysis** - [🔗](https://github.com/PushyanJhaveri/HR-Analytics-Data-Analysis)  
+📂 **Cutomer Churn Prediction Model and Retention Strategy** - [🔗](https://github.com/PushyanJhaveri/Customer-Churn-Prediction-Model-and-Retention-Strategy)  
 📂 **Machine Learning for Aneurysm Detection** - [🔗](https://github.com/PushyanJhaveri/Detection-of-Aneursym-Prolongation-using-ML-models)  
 
 ---
