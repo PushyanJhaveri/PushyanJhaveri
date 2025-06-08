@@ -8,8 +8,9 @@
 
 
 ### 🚀 **Important Repositories**
-📂 **Cutomer Churn Prediction Model and Retention Strategy** - [🔗](https://github.com/PushyanJhaveri/Customer-Churn-Prediction-Model-and-Retention-Strategy)  
-📂 **Machine Learning for Aneurysm Detection** - [🔗](https://github.com/PushyanJhaveri/Detection-of-Aneursym-Prolongation-using-ML-models)  
+📂 [**Azure-Powered CRM Reseller Analytics Compliance Dashboard**](https://github.com/PushyanJhaveri/Azure-Powered-CRM-Reseller-Analytics-Compliance-Dashboard)  
+📂 [**Cutomer Churn Prediction Model and Retention Strategy**](https://github.com/PushyanJhaveri/Customer-Churn-Prediction-Model-and-Retention-Strategy)  
+
 
 ---
 
